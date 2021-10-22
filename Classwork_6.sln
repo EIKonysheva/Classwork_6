@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classwork_6", "Classwork_6.csproj", "{E8DBAB7D-EF14-409B-8099-AD3E722605D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HairSalon", "..\HairSalon\HairSalon.csproj", "{BC0D918E-5BCC-4814-BE44-DDE4915EB037}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8DBAB7D-EF14-409B-8099-AD3E722605D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8DBAB7D-EF14-409B-8099-AD3E722605D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8DBAB7D-EF14-409B-8099-AD3E722605D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8DBAB7D-EF14-409B-8099-AD3E722605D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC0D918E-5BCC-4814-BE44-DDE4915EB037}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC0D918E-5BCC-4814-BE44-DDE4915EB037}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC0D918E-5BCC-4814-BE44-DDE4915EB037}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC0D918E-5BCC-4814-BE44-DDE4915EB037}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95A56946-C9C6-4765-B324-7D0087329C37}
+	EndGlobalSection
+EndGlobal
